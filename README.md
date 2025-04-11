@@ -19,6 +19,14 @@ In order to run the app, we need to first start the server and then start the fr
 #######################################################################################
 
 # Instructions for starting the frontend 
+If you haven't install Node.js, please install it. Follwing is the link to donwload Node.js
+    https://nodejs.org/en/download
+
+After that, install dependencies for frontend in order to run the app successfully, navigate to 'studentDashboard' and type in the following command and it will automatically install all the reqired dependencies
+    npm install
+
+Finally, you can run the app now using the following command, but ensure you are on the right file path that is under 'studentDashboard'
+    npm run dev
 
 
 
