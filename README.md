@@ -15,7 +15,6 @@ In order to run the app, we need to start the server before starting the fronten
 
     # Now, server is running.
 
-#######################################################################################
 
 # Instructions for starting the frontend 
     If you haven't install Node.js, please install it. Follwing is the link to donwload Node.js
@@ -28,7 +27,6 @@ In order to run the app, we need to start the server before starting the fronten
         npm run dev
 
 
-#######################################################################################
 # Troubleshooting if having errors in starting the backend server
     Setup virtual environment (venv) (Optional if you can't start the server in virtual environment delete 'venv' folder and install it again with the following command under 'flaskBackend' folder)
         For Windows
