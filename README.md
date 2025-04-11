@@ -2,6 +2,16 @@
 Two folders, 'flaskBackend' and 'studentDashboard', are in mis-assessment-app repository.
 In order to run the app, we need to start the server before starting the frontend.
 
+# An offline AI chatbot is implemented in the MIS Assessment Web App, to enjoy all of the features in the app, please follow the following instruction.
+    For Windows
+        If ollama haven't installed on your machine yet, please follow the following link and download it
+            https://ollama.com/
+
+        After downloading and installing ollama on your machine, please type the following in your command prompt to install 'mistral' model as that model is used in the app
+            ollama pull mistral
+        
+        Setting up model is finished and Chatbot featured is enabled now.
+
 # Instruction for setting up and starting the backend
     Check python version if it's 3.7.9 if not please read the following
         Download and Install Python 3.7.9 as Python latest version is not supported for my app. Following is the download link
