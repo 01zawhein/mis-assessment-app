@@ -3,7 +3,6 @@ Two folders, 'flaskBackend' and 'studentDashboard', are in mis-assessment-app re
 In order to run the app, we need to start the server before starting the frontend.
 
 # Instruction for setting up and starting the backend
-First backend is needed to be installed
     # Check python version if it's 3.7.9 if not please read the following
     Download and Install Python 3.7.9 as Python latest version is not supported for my app. Following is the download link
         https://www.filehorse.com/download-python-64/53890/download/
